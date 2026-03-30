@@ -39,6 +39,8 @@
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
 
+- [2026-03-31-OpenAI-Clawdbot-프롬프트-최적화](ai-agent/2026-03-31-OpenAI-Clawdbot-프롬프트-최적화.md)
+
 - [2026-03-31-오픈AI-로컬-실행-봇-선택](ai-agent/2026-03-31-오픈AI-로컬-실행-봇-선택.md)
 
 - [2026-03-12-멀티모달의-이해](ai-agent/2026-03-12-멀티모달의-이해.md)
